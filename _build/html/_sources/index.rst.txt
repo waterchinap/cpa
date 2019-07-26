@@ -3,14 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to cpa's documentation!
+2019年CPA笔记
 ===============================
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: 目录:
 
-   kj
+   会计 <kj>
+   税法 <sf>
 
 
 

@@ -10,8 +10,8 @@
    :maxdepth: 3
    :caption: 目录:
 
-   会计 <kj>
-   税法 <sf>
+   kj
+   sf
 
 
 

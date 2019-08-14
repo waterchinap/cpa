@@ -32,7 +32,7 @@ release = '1'
 # ones.
 extensions = [
     'recommonmark',
-    'sphinxcontrib.mermaid',
+#    'sphinxcontrib.mermaid',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

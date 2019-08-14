@@ -32,7 +32,6 @@ release = '1'
 # ones.
 extensions = [
     'recommonmark',
-    'sphinx_markdown_tables',
     'sphinxcontrib.mermaid',
 ]
 

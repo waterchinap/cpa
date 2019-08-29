@@ -23,7 +23,7 @@ author = 'Eric'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
-
+version = '1.0'
 
 # -- General configuration ---------------------------------------------------
 
@@ -32,7 +32,8 @@ release = '1'
 # ones.
 extensions = [
     'recommonmark',
-    'sphinx_markdown_tables'
+    'sphinx_markdown_tables',
+    'sphinx.ext.githubpages'
 #    'sphinxcontrib.mermaid',
 ]
 

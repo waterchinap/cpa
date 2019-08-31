@@ -33,7 +33,8 @@ version = '1.0'
 extensions = [
     'recommonmark',
     'sphinx_markdown_tables',
-    'sphinx.ext.githubpages'
+    'sphinx.ext.githubpages',
+    'sphinx.ext.mathjax'
 #    'sphinxcontrib.mermaid',
 ]
 

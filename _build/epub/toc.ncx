@@ -1,0 +1,2984 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>2019CPA</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>2019年CPA笔记</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>会计</text>
+      </navLabel>
+      <content src="kj.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>会计</text>
+        </navLabel>
+        <content src="kj.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>分部</text>
+        </navLabel>
+        <content src="kj.xhtml#id2" />  
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>分部</text>
+          </navLabel>
+          <content src="kj.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>第一部分：基础</text>
+          </navLabel>
+          <content src="kj.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint7" playOrder="5">
+          <navLabel>
+            <text>第二部分：资产相关要素</text>
+          </navLabel>
+          <content src="kj.xhtml#id4" />  
+        </navPoint>
+        <navPoint id="navPoint8" playOrder="6">
+          <navLabel>
+            <text>第三部分：负债相关要素</text>
+          </navLabel>
+          <content src="kj.xhtml#id5" />  
+        </navPoint>
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>第四部分：特殊项目</text>
+          </navLabel>
+          <content src="kj.xhtml#id6" />  
+        </navPoint>
+        <navPoint id="navPoint10" playOrder="8">
+          <navLabel>
+            <text>第四部分：报告</text>
+          </navLabel>
+          <content src="kj.xhtml#id7" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>第1章：总论</text>
+        </navLabel>
+        <content src="kj.xhtml#id8" />  
+        <navPoint id="navPoint12" playOrder="9">
+          <navLabel>
+            <text>第1章：总论</text>
+          </navLabel>
+          <content src="kj.xhtml#id8" />  
+        </navPoint>
+        <navPoint id="navPoint13" playOrder="10">
+          <navLabel>
+            <text>第一节　会计概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id9" />  
+        </navPoint>
+        <navPoint id="navPoint14" playOrder="11">
+          <navLabel>
+            <text>第二节　财务报告目标、会计基本假设和会计基础</text>
+          </navLabel>
+          <content src="kj.xhtml#id10" />  
+        </navPoint>
+        <navPoint id="navPoint15" playOrder="12">
+          <navLabel>
+            <text>第三节　会计信息质量要求</text>
+          </navLabel>
+          <content src="kj.xhtml#id11" />  
+        </navPoint>
+        <navPoint id="navPoint16" playOrder="13">
+          <navLabel>
+            <text>第四节　会计要素及其确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id12" />  
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="14">
+          <navLabel>
+            <text>第五节　财务报告（略）</text>
+          </navLabel>
+          <content src="kj.xhtml#id24" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
+          <text>第2章：会计政策、会计估计及其变更和差错更正</text>
+        </navLabel>
+        <content src="kj.xhtml#id25" />  
+        <navPoint id="navPoint19" playOrder="15">
+          <navLabel>
+            <text>第2章：会计政策、会计估计及其变更和差错更正</text>
+          </navLabel>
+          <content src="kj.xhtml#id25" />  
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>第一节　会计政策及其变更的概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id26" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>第二节　会计估计及其变更的概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id29" />  
+        </navPoint>
+        <navPoint id="navPoint22" playOrder="18">
+          <navLabel>
+            <text>第三节　会计政策与会计估计及其变更的划分</text>
+          </navLabel>
+          <content src="kj.xhtml#id32" />  
+        </navPoint>
+        <navPoint id="navPoint23" playOrder="19">
+          <navLabel>
+            <text>第四节　会计政策和会计估计变更的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id33" />  
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="20">
+          <navLabel>
+            <text>第五节　前期差错及其更正</text>
+          </navLabel>
+          <content src="kj.xhtml#id43" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="21">
+        <navLabel>
+          <text>第3章：存货</text>
+        </navLabel>
+        <content src="kj.xhtml#id47" />  
+        <navPoint id="navPoint26" playOrder="21">
+          <navLabel>
+            <text>第3章：存货</text>
+          </navLabel>
+          <content src="kj.xhtml#id47" />  
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="22">
+          <navLabel>
+            <text>第一节　存货的确认和初始计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id48" />  
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="23">
+          <navLabel>
+            <text>第二节　发出存货的计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id54" />  
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="24">
+          <navLabel>
+            <text>第三节　期末存货的计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id64" />  
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="25">
+          <navLabel>
+            <text>第四节　存货的清查盘点</text>
+          </navLabel>
+          <content src="kj.xhtml#id75" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="26">
+        <navLabel>
+          <text>第4章：固定资产</text>
+        </navLabel>
+        <content src="kj.xhtml#id81" />  
+        <navPoint id="navPoint32" playOrder="26">
+          <navLabel>
+            <text>第4章：固定资产</text>
+          </navLabel>
+          <content src="kj.xhtml#id81" />  
+        </navPoint>
+        <navPoint id="navPoint33" playOrder="27">
+          <navLabel>
+            <text>第一节　固定资产的确认和初始计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id82" />  
+        </navPoint>
+        <navPoint id="navPoint34" playOrder="28">
+          <navLabel>
+            <text>第二节　固定资产的后续计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id90" />  
+        </navPoint>
+        <navPoint id="navPoint35" playOrder="29">
+          <navLabel>
+            <text>第三节　固定资产的处置</text>
+          </navLabel>
+          <content src="kj.xhtml#id101" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="30">
+        <navLabel>
+          <text>第5章：无形资产</text>
+        </navLabel>
+        <content src="kj.xhtml#id108" />  
+        <navPoint id="navPoint37" playOrder="30">
+          <navLabel>
+            <text>第5章：无形资产</text>
+          </navLabel>
+          <content src="kj.xhtml#id108" />  
+        </navPoint>
+        <navPoint id="navPoint38" playOrder="31">
+          <navLabel>
+            <text>第一节　无形资产的确认和初始计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id109" />  
+        </navPoint>
+        <navPoint id="navPoint39" playOrder="32">
+          <navLabel>
+            <text>第二节  内部研究开发费用的确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id117" />  
+        </navPoint>
+        <navPoint id="navPoint40" playOrder="33">
+          <navLabel>
+            <text>第三节无形资产的后续计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id122" />  
+        </navPoint>
+        <navPoint id="navPoint41" playOrder="34">
+          <navLabel>
+            <text>第四节  无形资产的处置</text>
+          </navLabel>
+          <content src="kj.xhtml#id132" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="35">
+        <navLabel>
+          <text>第6章：投资性房地产</text>
+        </navLabel>
+        <content src="kj.xhtml#id136" />  
+        <navPoint id="navPoint43" playOrder="35">
+          <navLabel>
+            <text>第6章：投资性房地产</text>
+          </navLabel>
+          <content src="kj.xhtml#id136" />  
+        </navPoint>
+        <navPoint id="navPoint44" playOrder="36">
+          <navLabel>
+            <text>第一节　投资性房地产的特征与范围</text>
+          </navLabel>
+          <content src="kj.xhtml#id137" />  
+        </navPoint>
+        <navPoint id="navPoint45" playOrder="37">
+          <navLabel>
+            <text>第二节　投资性房地产的确认和初始计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id140" />  
+        </navPoint>
+        <navPoint id="navPoint46" playOrder="38">
+          <navLabel>
+            <text>第三节　投资性房地产的后续计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id148" />  
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="39">
+          <navLabel>
+            <text>第四节　投资性房地产的转换和处置</text>
+          </navLabel>
+          <content src="kj.xhtml#id157" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint48" playOrder="40">
+        <navLabel>
+          <text>第8章：资产减值</text>
+        </navLabel>
+        <content src="kj.xhtml#id164" />  
+        <navPoint id="navPoint49" playOrder="40">
+          <navLabel>
+            <text>第8章：资产减值</text>
+          </navLabel>
+          <content src="kj.xhtml#id164" />  
+        </navPoint>
+        <navPoint id="navPoint50" playOrder="41">
+          <navLabel>
+            <text>第一节　资产减值概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id165" />  
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="42">
+          <navLabel>
+            <text>第二节　资产可收回金额的计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id170" />  
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="43">
+          <navLabel>
+            <text>第三节　资产减值损失的确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id178" />  
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="44">
+          <navLabel>
+            <text>第四节　资产组的认定及减值处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id184" />  
+        </navPoint>
+        <navPoint id="navPoint54" playOrder="45">
+          <navLabel>
+            <text>第五节  商誉减值测试与处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id188" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint55" playOrder="46">
+        <navLabel>
+          <text>第9章：负债</text>
+        </navLabel>
+        <content src="kj.xhtml#id191" />  
+        <navPoint id="navPoint56" playOrder="46">
+          <navLabel>
+            <text>第9章：负债</text>
+          </navLabel>
+          <content src="kj.xhtml#id191" />  
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="47">
+          <navLabel>
+            <text>第一节　流动负债</text>
+          </navLabel>
+          <content src="kj.xhtml#id192" />  
+        </navPoint>
+        <navPoint id="navPoint58" playOrder="48">
+          <navLabel>
+            <text>第二节　非流动负债</text>
+          </navLabel>
+          <content src="kj.xhtml#id203" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint59" playOrder="49">
+        <navLabel>
+          <text>第11章：借款费用</text>
+        </navLabel>
+        <content src="kj.xhtml#id209" />  
+        <navPoint id="navPoint60" playOrder="49">
+          <navLabel>
+            <text>第11章：借款费用</text>
+          </navLabel>
+          <content src="kj.xhtml#id209" />  
+        </navPoint>
+        <navPoint id="navPoint61" playOrder="50">
+          <navLabel>
+            <text>第一节　借款费用概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id210" />  
+        </navPoint>
+        <navPoint id="navPoint62" playOrder="51">
+          <navLabel>
+            <text>第二节　借款费用的确认</text>
+          </navLabel>
+          <content src="kj.xhtml#id214" />  
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="52">
+          <navLabel>
+            <text>第三节　借款费用的计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id218" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint64" playOrder="53">
+        <navLabel>
+          <text>第10章：职工薪酬</text>
+        </navLabel>
+        <content src="kj.xhtml#id221" />  
+        <navPoint id="navPoint65" playOrder="53">
+          <navLabel>
+            <text>第10章：职工薪酬</text>
+          </navLabel>
+          <content src="kj.xhtml#id221" />  
+        </navPoint>
+        <navPoint id="navPoint66" playOrder="54">
+          <navLabel>
+            <text>第一节　职工和职工薪酬的范围及分类</text>
+          </navLabel>
+          <content src="kj.xhtml#id222" />  
+        </navPoint>
+        <navPoint id="navPoint67" playOrder="55">
+          <navLabel>
+            <text>第二节　短期薪酬的确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id229" />  
+        </navPoint>
+        <navPoint id="navPoint68" playOrder="56">
+          <navLabel>
+            <text>第三节　离职后福利的确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id237" />  
+        </navPoint>
+        <navPoint id="navPoint69" playOrder="57">
+          <navLabel>
+            <text>第四节　辞退福利的确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id240" />  
+        </navPoint>
+        <navPoint id="navPoint70" playOrder="58">
+          <navLabel>
+            <text>第五节　其他长期职工福利的确认与计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id241" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint71" playOrder="59">
+        <navLabel>
+          <text>第12章：股份支付</text>
+        </navLabel>
+        <content src="kj.xhtml#id242" />  
+        <navPoint id="navPoint72" playOrder="59">
+          <navLabel>
+            <text>第12章：股份支付</text>
+          </navLabel>
+          <content src="kj.xhtml#id242" />  
+        </navPoint>
+        <navPoint id="navPoint73" playOrder="60">
+          <navLabel>
+            <text>第一节　股份支付概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id243" />  
+        </navPoint>
+        <navPoint id="navPoint74" playOrder="61">
+          <navLabel>
+            <text>第二节　股份支付的确认和计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id246" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint75" playOrder="62">
+        <navLabel>
+          <text>第13章：或有事项</text>
+        </navLabel>
+        <content src="kj.xhtml#id264" />  
+        <navPoint id="navPoint76" playOrder="62">
+          <navLabel>
+            <text>第13章：或有事项</text>
+          </navLabel>
+          <content src="kj.xhtml#id264" />  
+        </navPoint>
+        <navPoint id="navPoint77" playOrder="63">
+          <navLabel>
+            <text>第一节　或有事项概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id265" />  
+        </navPoint>
+        <navPoint id="navPoint78" playOrder="64">
+          <navLabel>
+            <text>第二节　或有事项的确认和计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id268" />  
+        </navPoint>
+        <navPoint id="navPoint79" playOrder="65">
+          <navLabel>
+            <text>第三节　或有事项会计的具体应用</text>
+          </navLabel>
+          <content src="kj.xhtml#id272" />  
+        </navPoint>
+        <navPoint id="navPoint80" playOrder="66">
+          <navLabel>
+            <text>第四节　或有事项的列报</text>
+          </navLabel>
+          <content src="kj.xhtml#id278" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint81" playOrder="67">
+        <navLabel>
+          <text>第15章：所有者权益</text>
+        </navLabel>
+        <content src="kj.xhtml#id282" />  
+        <navPoint id="navPoint82" playOrder="67">
+          <navLabel>
+            <text>第15章：所有者权益</text>
+          </navLabel>
+          <content src="kj.xhtml#id282" />  
+        </navPoint>
+        <navPoint id="navPoint83" playOrder="68">
+          <navLabel>
+            <text>第一节　实收资本</text>
+          </navLabel>
+          <content src="kj.xhtml#id283" />  
+        </navPoint>
+        <navPoint id="navPoint84" playOrder="69">
+          <navLabel>
+            <text>第二节　其他权益工具</text>
+          </navLabel>
+          <content src="kj.xhtml#id286" />  
+        </navPoint>
+        <navPoint id="navPoint85" playOrder="70">
+          <navLabel>
+            <text>第三节　资本公积和其他综合收益</text>
+          </navLabel>
+          <content src="kj.xhtml#id292" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint86" playOrder="71">
+        <navLabel>
+          <text>第17章：政府补助</text>
+        </navLabel>
+        <content src="kj.xhtml#id303" />  
+        <navPoint id="navPoint87" playOrder="71">
+          <navLabel>
+            <text>第17章：政府补助</text>
+          </navLabel>
+          <content src="kj.xhtml#id303" />  
+        </navPoint>
+        <navPoint id="navPoint88" playOrder="72">
+          <navLabel>
+            <text>第一节　政府补助的概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id304" />  
+        </navPoint>
+        <navPoint id="navPoint89" playOrder="73">
+          <navLabel>
+            <text>第二节　政府补助的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id308" />  
+        </navPoint>
+        <navPoint id="navPoint90" playOrder="74">
+          <navLabel>
+            <text>第三节　政府补助的列报</text>
+          </navLabel>
+          <content src="kj.xhtml#id318" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint91" playOrder="75">
+        <navLabel>
+          <text>第18章：非货币性资产交换</text>
+        </navLabel>
+        <content src="kj.xhtml#id321" />  
+        <navPoint id="navPoint92" playOrder="75">
+          <navLabel>
+            <text>第18章：非货币性资产交换</text>
+          </navLabel>
+          <content src="kj.xhtml#id321" />  
+        </navPoint>
+        <navPoint id="navPoint93" playOrder="76">
+          <navLabel>
+            <text>第一节　非货币性资产交换的概念</text>
+          </navLabel>
+          <content src="kj.xhtml#id322" />  
+        </navPoint>
+        <navPoint id="navPoint94" playOrder="77">
+          <navLabel>
+            <text>第二节　非货币性资产交换的确认和计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id325" />  
+        </navPoint>
+        <navPoint id="navPoint95" playOrder="78">
+          <navLabel>
+            <text>第三节　非货币性资产交换的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id333" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint96" playOrder="79">
+        <navLabel>
+          <text>第19章：债务重组</text>
+        </navLabel>
+        <content src="kj.xhtml#id342" />  
+        <navPoint id="navPoint97" playOrder="79">
+          <navLabel>
+            <text>第19章：债务重组</text>
+          </navLabel>
+          <content src="kj.xhtml#id342" />  
+        </navPoint>
+        <navPoint id="navPoint98" playOrder="80">
+          <navLabel>
+            <text>第一节　债务重组的定义和重组方式</text>
+          </navLabel>
+          <content src="kj.xhtml#id343" />  
+        </navPoint>
+        <navPoint id="navPoint99" playOrder="81">
+          <navLabel>
+            <text>第二节　债务重组的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id346" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint100" playOrder="82">
+        <navLabel>
+          <text>第21章：外币折算</text>
+        </navLabel>
+        <content src="kj.xhtml#id355" />  
+        <navPoint id="navPoint101" playOrder="82">
+          <navLabel>
+            <text>第21章：外币折算</text>
+          </navLabel>
+          <content src="kj.xhtml#id355" />  
+        </navPoint>
+        <navPoint id="navPoint102" playOrder="83">
+          <navLabel>
+            <text>第一节　记账本位币的确定</text>
+          </navLabel>
+          <content src="kj.xhtml#id356" />  
+        </navPoint>
+        <navPoint id="navPoint103" playOrder="84">
+          <navLabel>
+            <text>第二节　外币交易的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id362" />  
+        </navPoint>
+        <navPoint id="navPoint104" playOrder="85">
+          <navLabel>
+            <text>第三节　外币财务报表折算</text>
+          </navLabel>
+          <content src="kj.xhtml#id370" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint105" playOrder="86">
+        <navLabel>
+          <text>第24章：资产负债表日后事项</text>
+        </navLabel>
+        <content src="kj.xhtml#id376" />  
+        <navPoint id="navPoint106" playOrder="86">
+          <navLabel>
+            <text>第24章：资产负债表日后事项</text>
+          </navLabel>
+          <content src="kj.xhtml#id376" />  
+        </navPoint>
+        <navPoint id="navPoint107" playOrder="87">
+          <navLabel>
+            <text>第一节　资产负债表日后事项概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id377" />  
+        </navPoint>
+        <navPoint id="navPoint108" playOrder="88">
+          <navLabel>
+            <text>第二节　调整事项的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id384" />  
+        </navPoint>
+        <navPoint id="navPoint109" playOrder="89">
+          <navLabel>
+            <text>第三节　非调整事项的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id387" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint110" playOrder="90">
+        <navLabel>
+          <text>第25章：持有待售的非流动资产、处置组和终止经营</text>
+        </navLabel>
+        <content src="kj.xhtml#id390" />  
+        <navPoint id="navPoint111" playOrder="90">
+          <navLabel>
+            <text>第25章：持有待售的非流动资产、处置组和终止经营</text>
+          </navLabel>
+          <content src="kj.xhtml#id390" />  
+        </navPoint>
+        <navPoint id="navPoint112" playOrder="91">
+          <navLabel>
+            <text>第一节　持有待售的非流动资产和处置组</text>
+          </navLabel>
+          <content src="kj.xhtml#id391" />  
+        </navPoint>
+        <navPoint id="navPoint113" playOrder="92">
+          <navLabel>
+            <text>第二节　终止经营</text>
+          </navLabel>
+          <content src="kj.xhtml#id402" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint114" playOrder="93">
+        <navLabel>
+          <text>第28章：每股收益</text>
+        </navLabel>
+        <content src="kj.xhtml#id406" />  
+        <navPoint id="navPoint115" playOrder="93">
+          <navLabel>
+            <text>第28章：每股收益</text>
+          </navLabel>
+          <content src="kj.xhtml#id406" />  
+        </navPoint>
+        <navPoint id="navPoint116" playOrder="94">
+          <navLabel>
+            <text>第一节　每股收益的基本概念</text>
+          </navLabel>
+          <content src="kj.xhtml#id407" />  
+        </navPoint>
+        <navPoint id="navPoint117" playOrder="95">
+          <navLabel>
+            <text>第二节　基本每股收益</text>
+          </navLabel>
+          <content src="kj.xhtml#id408" />  
+        </navPoint>
+        <navPoint id="navPoint118" playOrder="96">
+          <navLabel>
+            <text>第三节　稀释每股收益</text>
+          </navLabel>
+          <content src="kj.xhtml#id409" />  
+        </navPoint>
+        <navPoint id="navPoint119" playOrder="97">
+          <navLabel>
+            <text>第四节　每股收益的列报</text>
+          </navLabel>
+          <content src="kj.xhtml#id422" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint120" playOrder="98">
+        <navLabel>
+          <text>第29章：公允价值计量</text>
+        </navLabel>
+        <content src="kj.xhtml#id427" />  
+        <navPoint id="navPoint121" playOrder="98">
+          <navLabel>
+            <text>第29章：公允价值计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id427" />  
+        </navPoint>
+        <navPoint id="navPoint122" playOrder="99">
+          <navLabel>
+            <text>第一节　公允价值概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id428" />  
+        </navPoint>
+        <navPoint id="navPoint123" playOrder="100">
+          <navLabel>
+            <text>第二节　公允价值计量要求</text>
+          </navLabel>
+          <content src="kj.xhtml#id435" />  
+        </navPoint>
+        <navPoint id="navPoint124" playOrder="101">
+          <navLabel>
+            <text>第三节　公允价值计量的具体应用</text>
+          </navLabel>
+          <content src="kj.xhtml#id451" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint125" playOrder="102">
+        <navLabel>
+          <text>第30章：政府及民间非盈利组织会计</text>
+        </navLabel>
+        <content src="kj.xhtml#id457" />  
+        <navPoint id="navPoint126" playOrder="102">
+          <navLabel>
+            <text>第30章：政府及民间非盈利组织会计</text>
+          </navLabel>
+          <content src="kj.xhtml#id457" />  
+        </navPoint>
+        <navPoint id="navPoint127" playOrder="103">
+          <navLabel>
+            <text>第一节：概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id458" />  
+        </navPoint>
+        <navPoint id="navPoint128" playOrder="104">
+          <navLabel>
+            <text>第二节：国库集中支付</text>
+          </navLabel>
+          <content src="kj.xhtml#id461" />  
+        </navPoint>
+        <navPoint id="navPoint129" playOrder="105">
+          <navLabel>
+            <text>第三节：非财政拨款收支</text>
+          </navLabel>
+          <content src="kj.xhtml#id463" />  
+        </navPoint>
+        <navPoint id="navPoint130" playOrder="106">
+          <navLabel>
+            <text>第四节：预算结转结余及分配业务</text>
+          </navLabel>
+          <content src="kj.xhtml#id468" />  
+        </navPoint>
+        <navPoint id="navPoint131" playOrder="107">
+          <navLabel>
+            <text>第五节：净资产业务</text>
+          </navLabel>
+          <content src="kj.xhtml#id471" />  
+        </navPoint>
+        <navPoint id="navPoint132" playOrder="108">
+          <navLabel>
+            <text>第六节：资产业务</text>
+          </navLabel>
+          <content src="kj.xhtml#id472" />  
+        </navPoint>
+        <navPoint id="navPoint133" playOrder="109">
+          <navLabel>
+            <text>第七节：民间非营利组织会计</text>
+          </navLabel>
+          <content src="kj.xhtml#id473" />  
+        </navPoint>
+        <navPoint id="navPoint134" playOrder="110">
+          <navLabel>
+            <text>第一节：民间概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id474" />  
+        </navPoint>
+        <navPoint id="navPoint135" playOrder="111">
+          <navLabel>
+            <text>第二节：业务核算</text>
+          </navLabel>
+          <content src="kj.xhtml#id475" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint136" playOrder="112">
+        <navLabel>
+          <text>第20章：所得税</text>
+        </navLabel>
+        <content src="kj.xhtml#id476" />  
+        <navPoint id="navPoint137" playOrder="112">
+          <navLabel>
+            <text>第20章：所得税</text>
+          </navLabel>
+          <content src="kj.xhtml#id476" />  
+        </navPoint>
+        <navPoint id="navPoint138" playOrder="113">
+          <navLabel>
+            <text>第一节：资产负债表债务法</text>
+          </navLabel>
+          <content src="kj.xhtml#id477" />  
+        </navPoint>
+        <navPoint id="navPoint139" playOrder="114">
+          <navLabel>
+            <text>第二节：计税基础</text>
+          </navLabel>
+          <content src="kj.xhtml#id478" />  
+        </navPoint>
+        <navPoint id="navPoint140" playOrder="115">
+          <navLabel>
+            <text>第三节：暂时性差异</text>
+          </navLabel>
+          <content src="kj.xhtml#id481" />  
+        </navPoint>
+        <navPoint id="navPoint141" playOrder="116">
+          <navLabel>
+            <text>第四节：递延所得税资产及负债</text>
+          </navLabel>
+          <content src="kj.xhtml#id484" />  
+        </navPoint>
+        <navPoint id="navPoint142" playOrder="117">
+          <navLabel>
+            <text>第五节：所得税费用</text>
+          </navLabel>
+          <content src="kj.xhtml#id488" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint143" playOrder="118">
+        <navLabel>
+          <text>第16章：收入、费用和利润</text>
+        </navLabel>
+        <content src="kj.xhtml#id493" />  
+        <navPoint id="navPoint144" playOrder="118">
+          <navLabel>
+            <text>第16章：收入、费用和利润</text>
+          </navLabel>
+          <content src="kj.xhtml#id493" />  
+        </navPoint>
+        <navPoint id="navPoint145" playOrder="119">
+          <navLabel>
+            <text>第一节：收入</text>
+          </navLabel>
+          <content src="kj.xhtml#id494" />  
+        </navPoint>
+        <navPoint id="navPoint146" playOrder="120">
+          <navLabel>
+            <text>第二节：特殊交易会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id506" />  
+        </navPoint>
+        <navPoint id="navPoint147" playOrder="121">
+          <navLabel>
+            <text>第三节：费用</text>
+          </navLabel>
+          <content src="kj.xhtml#id515" />  
+        </navPoint>
+        <navPoint id="navPoint148" playOrder="122">
+          <navLabel>
+            <text>第四节：利润</text>
+          </navLabel>
+          <content src="kj.xhtml#id516" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint149" playOrder="123">
+        <navLabel>
+          <text>第14章：金融工具</text>
+        </navLabel>
+        <content src="kj.xhtml#id517" />  
+        <navPoint id="navPoint150" playOrder="123">
+          <navLabel>
+            <text>第14章：金融工具</text>
+          </navLabel>
+          <content src="kj.xhtml#id517" />  
+        </navPoint>
+        <navPoint id="navPoint151" playOrder="124">
+          <navLabel>
+            <text>第一节：金融工具概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id518" />  
+        </navPoint>
+        <navPoint id="navPoint152" playOrder="125">
+          <navLabel>
+            <text>第二节：金融资产和金融负债的分类和重分类</text>
+          </navLabel>
+          <content src="kj.xhtml#id522" />  
+        </navPoint>
+        <navPoint id="navPoint153" playOrder="126">
+          <navLabel>
+            <text>第三节：金融负债和权益工具的区分</text>
+          </navLabel>
+          <content src="kj.xhtml#id526" />  
+        </navPoint>
+        <navPoint id="navPoint154" playOrder="127">
+          <navLabel>
+            <text>第四节：金融工具的计量</text>
+          </navLabel>
+          <content src="kj.xhtml#id535" />  
+        </navPoint>
+        <navPoint id="navPoint155" playOrder="128">
+          <navLabel>
+            <text>第五节：金融资产转移</text>
+          </navLabel>
+          <content src="kj.xhtml#id550" />  
+        </navPoint>
+        <navPoint id="navPoint156" playOrder="129">
+          <navLabel>
+            <text>第六节：套期会计</text>
+          </navLabel>
+          <content src="kj.xhtml#id552" />  
+        </navPoint>
+        <navPoint id="navPoint157" playOrder="130">
+          <navLabel>
+            <text>第七节：金融工具的披露</text>
+          </navLabel>
+          <content src="kj.xhtml#id563" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint158" playOrder="131">
+        <navLabel>
+          <text>第7章：长期股票投资与合营安排</text>
+        </navLabel>
+        <content src="kj.xhtml#id566" />  
+        <navPoint id="navPoint159" playOrder="131">
+          <navLabel>
+            <text>第7章：长期股票投资与合营安排</text>
+          </navLabel>
+          <content src="kj.xhtml#id566" />  
+        </navPoint>
+        <navPoint id="navPoint160" playOrder="132">
+          <navLabel>
+            <text>第一节：企业合并概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id567" />  
+        </navPoint>
+        <navPoint id="navPoint161" playOrder="133">
+          <navLabel>
+            <text>第二节：合并财务报表</text>
+          </navLabel>
+          <content src="kj.xhtml#id571" />  
+        </navPoint>
+        <navPoint id="navPoint162" playOrder="134">
+          <navLabel>
+            <text>第三节：不形成控股合并的长期股权投资</text>
+          </navLabel>
+          <content src="kj.xhtml#id575" />  
+        </navPoint>
+        <navPoint id="navPoint163" playOrder="135">
+          <navLabel>
+            <text>第四节：非同一控制下控股合并的长期股权投资企业合并</text>
+          </navLabel>
+          <content src="kj.xhtml#id582" />  
+        </navPoint>
+        <navPoint id="navPoint164" playOrder="136">
+          <navLabel>
+            <text>第五节：同一控制下控股合并的长期股权投资及企业合并</text>
+          </navLabel>
+          <content src="kj.xhtml#id591" />  
+        </navPoint>
+        <navPoint id="navPoint165" playOrder="137">
+          <navLabel>
+            <text>第六节：长期股权投资核算方法的转换及处置</text>
+          </navLabel>
+          <content src="kj.xhtml#id601" />  
+        </navPoint>
+        <navPoint id="navPoint166" playOrder="138">
+          <navLabel>
+            <text>第七节：内部交易的合并处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id609" />  
+        </navPoint>
+        <navPoint id="navPoint167" playOrder="139">
+          <navLabel>
+            <text>第八节：特殊交易在合并财务报表中的会计处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id622" />  
+        </navPoint>
+        <navPoint id="navPoint168" playOrder="140">
+          <navLabel>
+            <text>第九节：所得税会计相关的合并处理</text>
+          </navLabel>
+          <content src="kj.xhtml#id635" />  
+        </navPoint>
+        <navPoint id="navPoint169" playOrder="141">
+          <navLabel>
+            <text>第十节：合并现金流量的编制</text>
+          </navLabel>
+          <content src="kj.xhtml#id640" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint170" playOrder="142">
+        <navLabel>
+          <text>第23章：财务报告</text>
+        </navLabel>
+        <content src="kj.xhtml#id641" />  
+        <navPoint id="navPoint171" playOrder="142">
+          <navLabel>
+            <text>第23章：财务报告</text>
+          </navLabel>
+          <content src="kj.xhtml#id641" />  
+        </navPoint>
+        <navPoint id="navPoint172" playOrder="143">
+          <navLabel>
+            <text>第一节：财务报告概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id642" />  
+        </navPoint>
+        <navPoint id="navPoint173" playOrder="144">
+          <navLabel>
+            <text>第二节：资产负债表</text>
+          </navLabel>
+          <content src="kj.xhtml#id643" />  
+        </navPoint>
+        <navPoint id="navPoint174" playOrder="145">
+          <navLabel>
+            <text>第三节：利润表</text>
+          </navLabel>
+          <content src="kj.xhtml#id644" />  
+        </navPoint>
+        <navPoint id="navPoint175" playOrder="146">
+          <navLabel>
+            <text>第四节：现金流量表</text>
+          </navLabel>
+          <content src="kj.xhtml#id645" />  
+        </navPoint>
+        <navPoint id="navPoint176" playOrder="147">
+          <navLabel>
+            <text>第五节：所有者权益变动表</text>
+          </navLabel>
+          <content src="kj.xhtml#id646" />  
+        </navPoint>
+        <navPoint id="navPoint177" playOrder="148">
+          <navLabel>
+            <text>第六节：关联方披露</text>
+          </navLabel>
+          <content src="kj.xhtml#id647" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint178" playOrder="149">
+        <navLabel>
+          <text>第26章：企业合并</text>
+        </navLabel>
+        <content src="kj.xhtml#id648" />  
+        <navPoint id="navPoint179" playOrder="149">
+          <navLabel>
+            <text>第26章：企业合并</text>
+          </navLabel>
+          <content src="kj.xhtml#id648" />  
+        </navPoint>
+        <navPoint id="navPoint180" playOrder="150">
+          <navLabel>
+            <text>第一节：合并概述</text>
+          </navLabel>
+          <content src="kj.xhtml#id649" />  
+        </navPoint>
+        <navPoint id="navPoint181" playOrder="151">
+          <navLabel>
+            <text>第二节：反向购买</text>
+          </navLabel>
+          <content src="kj.xhtml#id650" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint182" playOrder="152">
+      <navLabel>
+        <text>战略</text>
+      </navLabel>
+      <content src="zl.xhtml" />  
+      <navPoint id="navPoint183" playOrder="152">
+        <navLabel>
+          <text>战略</text>
+        </navLabel>
+        <content src="zl.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint184" playOrder="153">
+        <navLabel>
+          <text>第1章：战略与战略管理</text>
+        </navLabel>
+        <content src="zl.xhtml#id2" />  
+        <navPoint id="navPoint185" playOrder="153">
+          <navLabel>
+            <text>第1章：战略与战略管理</text>
+          </navLabel>
+          <content src="zl.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint186" playOrder="154">
+          <navLabel>
+            <text>第一节：公司战略的基本理论</text>
+          </navLabel>
+          <content src="zl.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint187" playOrder="155">
+          <navLabel>
+            <text>第二节：战略管理的概述</text>
+          </navLabel>
+          <content src="zl.xhtml#id16" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint188" playOrder="156">
+        <navLabel>
+          <text>第2章：战略分析</text>
+        </navLabel>
+        <content src="zl.xhtml#id24" />  
+        <navPoint id="navPoint189" playOrder="156">
+          <navLabel>
+            <text>第2章：战略分析</text>
+          </navLabel>
+          <content src="zl.xhtml#id24" />  
+        </navPoint>
+        <navPoint id="navPoint190" playOrder="157">
+          <navLabel>
+            <text>第一节：企业外部环境分析</text>
+          </navLabel>
+          <content src="zl.xhtml#id25" />  
+        </navPoint>
+        <navPoint id="navPoint191" playOrder="158">
+          <navLabel>
+            <text>第二节：企业内部环境分析</text>
+          </navLabel>
+          <content src="zl.xhtml#id33" />  
+        </navPoint>
+        <navPoint id="navPoint192" playOrder="159">
+          <navLabel>
+            <text>第三节：SWOT分析</text>
+          </navLabel>
+          <content src="zl.xhtml#swot" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint193" playOrder="160">
+        <navLabel>
+          <text>第3章：战略选择</text>
+        </navLabel>
+        <content src="zl.xhtml#id48" />  
+        <navPoint id="navPoint194" playOrder="160">
+          <navLabel>
+            <text>第3章：战略选择</text>
+          </navLabel>
+          <content src="zl.xhtml#id48" />  
+        </navPoint>
+        <navPoint id="navPoint195" playOrder="161">
+          <navLabel>
+            <text>第一节：总体战略</text>
+          </navLabel>
+          <content src="zl.xhtml#id49" />  
+        </navPoint>
+        <navPoint id="navPoint196" playOrder="162">
+          <navLabel>
+            <text>第二节：业务单位战略</text>
+          </navLabel>
+          <content src="zl.xhtml#id61" />  
+        </navPoint>
+        <navPoint id="navPoint197" playOrder="163">
+          <navLabel>
+            <text>第三节：职能战略</text>
+          </navLabel>
+          <content src="zl.xhtml#id76" />  
+        </navPoint>
+        <navPoint id="navPoint198" playOrder="164">
+          <navLabel>
+            <text>第四节：国际化经营战略</text>
+          </navLabel>
+          <content src="zl.xhtml#id98" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint199" playOrder="165">
+        <navLabel>
+          <text>第4章：战略实施</text>
+        </navLabel>
+        <content src="zl.xhtml#id114" />  
+        <navPoint id="navPoint200" playOrder="165">
+          <navLabel>
+            <text>第4章：战略实施</text>
+          </navLabel>
+          <content src="zl.xhtml#id114" />  
+        </navPoint>
+        <navPoint id="navPoint201" playOrder="166">
+          <navLabel>
+            <text>第一节：战略与组织结构</text>
+          </navLabel>
+          <content src="zl.xhtml#id115" />  
+        </navPoint>
+        <navPoint id="navPoint202" playOrder="167">
+          <navLabel>
+            <text>第二节：战略与企业文化</text>
+          </navLabel>
+          <content src="zl.xhtml#id125" />  
+        </navPoint>
+        <navPoint id="navPoint203" playOrder="168">
+          <navLabel>
+            <text>第三节：战略控制</text>
+          </navLabel>
+          <content src="zl.xhtml#id136" />  
+        </navPoint>
+        <navPoint id="navPoint204" playOrder="169">
+          <navLabel>
+            <text>第四节：战略管理中的权力与利益相关者</text>
+          </navLabel>
+          <content src="zl.xhtml#id147" />  
+        </navPoint>
+        <navPoint id="navPoint205" playOrder="170">
+          <navLabel>
+            <text>第五节：信息技术的作用</text>
+          </navLabel>
+          <content src="zl.xhtml#id154" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint206" playOrder="171">
+        <navLabel>
+          <text>第5章：公司治理</text>
+        </navLabel>
+        <content src="zl.xhtml#id164" />  
+        <navPoint id="navPoint207" playOrder="171">
+          <navLabel>
+            <text>第5章：公司治理</text>
+          </navLabel>
+          <content src="zl.xhtml#id164" />  
+        </navPoint>
+        <navPoint id="navPoint208" playOrder="172">
+          <navLabel>
+            <text>第一节：概念</text>
+          </navLabel>
+          <content src="zl.xhtml#id165" />  
+        </navPoint>
+        <navPoint id="navPoint209" playOrder="173">
+          <navLabel>
+            <text>第二节：三大公司治理问题</text>
+          </navLabel>
+          <content src="zl.xhtml#id171" />  
+        </navPoint>
+        <navPoint id="navPoint210" playOrder="174">
+          <navLabel>
+            <text>第三节：公司内部治理结构和外部治理机制</text>
+          </navLabel>
+          <content src="zl.xhtml#id176" />  
+        </navPoint>
+        <navPoint id="navPoint211" playOrder="175">
+          <navLabel>
+            <text>第四节：公司治理的基础设施</text>
+          </navLabel>
+          <content src="zl.xhtml#id179" />  
+        </navPoint>
+        <navPoint id="navPoint212" playOrder="176">
+          <navLabel>
+            <text>第五节：公司治理原则</text>
+          </navLabel>
+          <content src="zl.xhtml#id180" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint213" playOrder="177">
+        <navLabel>
+          <text>第6章：风险管理</text>
+        </navLabel>
+        <content src="zl.xhtml#id181" />  
+        <navPoint id="navPoint214" playOrder="177">
+          <navLabel>
+            <text>第6章：风险管理</text>
+          </navLabel>
+          <content src="zl.xhtml#id181" />  
+        </navPoint>
+        <navPoint id="navPoint215" playOrder="178">
+          <navLabel>
+            <text>第一节：概述</text>
+          </navLabel>
+          <content src="zl.xhtml#id182" />  
+        </navPoint>
+        <navPoint id="navPoint216" playOrder="179">
+          <navLabel>
+            <text>第二节：风险管理目标</text>
+          </navLabel>
+          <content src="zl.xhtml#id192" />  
+        </navPoint>
+        <navPoint id="navPoint217" playOrder="180">
+          <navLabel>
+            <text>第三节：风险管理基本流程</text>
+          </navLabel>
+          <content src="zl.xhtml#id193" />  
+        </navPoint>
+        <navPoint id="navPoint218" playOrder="181">
+          <navLabel>
+            <text>第四节：风险管理体系</text>
+          </navLabel>
+          <content src="zl.xhtml#id201" />  
+        </navPoint>
+        <navPoint id="navPoint219" playOrder="182">
+          <navLabel>
+            <text>第五节：风险管理技术与方法</text>
+          </navLabel>
+          <content src="zl.xhtml#id219" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint220" playOrder="183">
+      <navLabel>
+        <text>税法</text>
+      </navLabel>
+      <content src="sf.xhtml" />  
+      <navPoint id="navPoint221" playOrder="183">
+        <navLabel>
+          <text>税法</text>
+        </navLabel>
+        <content src="sf.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint222" playOrder="184">
+        <navLabel>
+          <text>第一章：税法总论</text>
+        </navLabel>
+        <content src="sf.xhtml#id2" />  
+        <navPoint id="navPoint223" playOrder="184">
+          <navLabel>
+            <text>第一章：税法总论</text>
+          </navLabel>
+          <content src="sf.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint224" playOrder="185">
+          <navLabel>
+            <text>第一节税法概念</text>
+          </navLabel>
+          <content src="sf.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint225" playOrder="186">
+          <navLabel>
+            <text>第二节税法原则（相对重要内容）</text>
+          </navLabel>
+          <content src="sf.xhtml#id7" />  
+        </navPoint>
+        <navPoint id="navPoint226" playOrder="187">
+          <navLabel>
+            <text>第三节税法要素</text>
+          </navLabel>
+          <content src="sf.xhtml#id10" />  
+        </navPoint>
+        <navPoint id="navPoint227" playOrder="188">
+          <navLabel>
+            <text>第四节税收立法与我国税法体系</text>
+          </navLabel>
+          <content src="sf.xhtml#id19" />  
+        </navPoint>
+        <navPoint id="navPoint228" playOrder="189">
+          <navLabel>
+            <text>第五节税收执法</text>
+          </navLabel>
+          <content src="sf.xhtml#id24" />  
+        </navPoint>
+        <navPoint id="navPoint229" playOrder="190">
+          <navLabel>
+            <text>第六节税务权利与义务</text>
+          </navLabel>
+          <content src="sf.xhtml#id31" />  
+        </navPoint>
+        <navPoint id="navPoint230" playOrder="191">
+          <navLabel>
+            <text>第七节国际税收关系</text>
+          </navLabel>
+          <content src="sf.xhtml#id36" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint231" playOrder="192">
+        <navLabel>
+          <text>第二章：增值税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id39" />  
+        <navPoint id="navPoint232" playOrder="192">
+          <navLabel>
+            <text>第二章：增值税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id39" />  
+        </navPoint>
+        <navPoint id="navPoint233" playOrder="193">
+          <navLabel>
+            <text>第一节：征税范围与纳税义务人</text>
+          </navLabel>
+          <content src="sf.xhtml#id40" />  
+        </navPoint>
+        <navPoint id="navPoint234" playOrder="194">
+          <navLabel>
+            <text>第二节：一般纳税人、小规模纳税人的登记</text>
+          </navLabel>
+          <content src="sf.xhtml#id43" />  
+        </navPoint>
+        <navPoint id="navPoint235" playOrder="195">
+          <navLabel>
+            <text>第三节：税率与征收率</text>
+          </navLabel>
+          <content src="sf.xhtml#id44" />  
+        </navPoint>
+        <navPoint id="navPoint236" playOrder="196">
+          <navLabel>
+            <text>第五节：一般计税方法应纳税额的计算（全面掌握）</text>
+          </navLabel>
+          <content src="sf.xhtml#id47" />  
+        </navPoint>
+        <navPoint id="navPoint237" playOrder="197">
+          <navLabel>
+            <text>第六节：简易征税方法应纳税额的计算（客观题）</text>
+          </navLabel>
+          <content src="sf.xhtml#id51" />  
+        </navPoint>
+        <navPoint id="navPoint238" playOrder="198">
+          <navLabel>
+            <text>第七节：进口环节增值税的征收（海关代征）</text>
+          </navLabel>
+          <content src="sf.xhtml#id54" />  
+        </navPoint>
+        <navPoint id="navPoint239" playOrder="199">
+          <navLabel>
+            <text>第八节：出口和跨境业务增值税的退（免）税和征税</text>
+          </navLabel>
+          <content src="sf.xhtml#id59" />  
+        </navPoint>
+        <navPoint id="navPoint240" playOrder="200">
+          <navLabel>
+            <text>第九节：税收优惠</text>
+          </navLabel>
+          <content src="sf.xhtml#id67" />  
+        </navPoint>
+        <navPoint id="navPoint241" playOrder="201">
+          <navLabel>
+            <text>第十节征收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id73" />  
+        </navPoint>
+        <navPoint id="navPoint242" playOrder="202">
+          <navLabel>
+            <text>第十一节：增值税发票的使用及管理（了解）</text>
+          </navLabel>
+          <content src="sf.xhtml#id78" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint243" playOrder="203">
+        <navLabel>
+          <text>第三章：消费税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id85" />  
+        <navPoint id="navPoint244" playOrder="203">
+          <navLabel>
+            <text>第三章：消费税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id85" />  
+        </navPoint>
+        <navPoint id="navPoint245" playOrder="204">
+          <navLabel>
+            <text>第一节：纳税义务人与税目、税率</text>
+          </navLabel>
+          <content src="sf.xhtml#id86" />  
+        </navPoint>
+        <navPoint id="navPoint246" playOrder="205">
+          <navLabel>
+            <text>第二节：计税依据</text>
+          </navLabel>
+          <content src="sf.xhtml#id91" />  
+        </navPoint>
+        <navPoint id="navPoint247" playOrder="206">
+          <navLabel>
+            <text>第三节：应纳税额的计算（重要）</text>
+          </navLabel>
+          <content src="sf.xhtml#id96" />  
+        </navPoint>
+        <navPoint id="navPoint248" playOrder="207">
+          <navLabel>
+            <text>第四节：征收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id103" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint249" playOrder="208">
+        <navLabel>
+          <text>第四章：企业所得税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id106" />  
+        <navPoint id="navPoint250" playOrder="208">
+          <navLabel>
+            <text>第四章：企业所得税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id106" />  
+        </navPoint>
+        <navPoint id="navPoint251" playOrder="209">
+          <navLabel>
+            <text>第一节：纳税义务人、征税对象与税率</text>
+          </navLabel>
+          <content src="sf.xhtml#id107" />  
+        </navPoint>
+        <navPoint id="navPoint252" playOrder="210">
+          <navLabel>
+            <text>第二节：应纳税所得额（重要）</text>
+          </navLabel>
+          <content src="sf.xhtml#id111" />  
+        </navPoint>
+        <navPoint id="navPoint253" playOrder="211">
+          <navLabel>
+            <text>第三节：资产的税务处理</text>
+          </navLabel>
+          <content src="sf.xhtml#id117" />  
+        </navPoint>
+        <navPoint id="navPoint254" playOrder="212">
+          <navLabel>
+            <text>第四节：资产损失的所得税处理</text>
+          </navLabel>
+          <content src="sf.xhtml#id125" />  
+        </navPoint>
+        <navPoint id="navPoint255" playOrder="213">
+          <navLabel>
+            <text>第五节：企业重组的所得税处理</text>
+          </navLabel>
+          <content src="sf.xhtml#id129" />  
+        </navPoint>
+        <navPoint id="navPoint256" playOrder="214">
+          <navLabel>
+            <text>第六节：税收优惠</text>
+          </navLabel>
+          <content src="sf.xhtml#id133" />  
+        </navPoint>
+        <navPoint id="navPoint257" playOrder="215">
+          <navLabel>
+            <text>第七节：应纳税额的计算</text>
+          </navLabel>
+          <content src="sf.xhtml#id147" />  
+        </navPoint>
+        <navPoint id="navPoint258" playOrder="216">
+          <navLabel>
+            <text>第八节：征收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id154" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint259" playOrder="217">
+        <navLabel>
+          <text>第五章：个人所得税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id163" />  
+        <navPoint id="navPoint260" playOrder="217">
+          <navLabel>
+            <text>第五章：个人所得税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id163" />  
+        </navPoint>
+        <navPoint id="navPoint261" playOrder="218">
+          <navLabel>
+            <text>第一节：纳税义务人与征税范围</text>
+          </navLabel>
+          <content src="sf.xhtml#id164" />  
+        </navPoint>
+        <navPoint id="navPoint262" playOrder="219">
+          <navLabel>
+            <text>第二节：税率与应纳税所得额的确定</text>
+          </navLabel>
+          <content src="sf.xhtml#id177" />  
+        </navPoint>
+        <navPoint id="navPoint263" playOrder="220">
+          <navLabel>
+            <text>第三节：税收优惠</text>
+          </navLabel>
+          <content src="sf.xhtml#id180" />  
+        </navPoint>
+        <navPoint id="navPoint264" playOrder="221">
+          <navLabel>
+            <text>第四节：境外所得的税额扣除（重要）</text>
+          </navLabel>
+          <content src="sf.xhtml#id184" />  
+        </navPoint>
+        <navPoint id="navPoint265" playOrder="222">
+          <navLabel>
+            <text>第五节：居民个人综合所得应纳税额的计算</text>
+          </navLabel>
+          <content src="sf.xhtml#id185" />  
+        </navPoint>
+        <navPoint id="navPoint266" playOrder="223">
+          <navLabel>
+            <text>第六节：非居民个人应纳税额的计算（P268～269）</text>
+          </navLabel>
+          <content src="sf.xhtml#p268-269" />  
+        </navPoint>
+        <navPoint id="navPoint267" playOrder="224">
+          <navLabel>
+            <text>第七节：经营所得应纳税额的计算（重要）（P259+P269~275）</text>
+          </navLabel>
+          <content src="sf.xhtml#p259-p269-275" />  
+        </navPoint>
+        <navPoint id="navPoint268" playOrder="225">
+          <navLabel>
+            <text>第八节：其他税目应纳税额的计算（P275～280）</text>
+          </navLabel>
+          <content src="sf.xhtml#p275-280" />  
+        </navPoint>
+        <navPoint id="navPoint269" playOrder="226">
+          <navLabel>
+            <text>第九节：征收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id208" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint270" playOrder="227">
+        <navLabel>
+          <text>第六章：城市维护建设税法和烟叶税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id214" />  
+        <navPoint id="navPoint271" playOrder="227">
+          <navLabel>
+            <text>第六章：城市维护建设税法和烟叶税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id214" />  
+        </navPoint>
+        <navPoint id="navPoint272" playOrder="228">
+          <navLabel>
+            <text>第一节：城市维护建设税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id215" />  
+        </navPoint>
+        <navPoint id="navPoint273" playOrder="229">
+          <navLabel>
+            <text>第三节：教育费附加和地方教育附加的有关规定</text>
+          </navLabel>
+          <content src="sf.xhtml#id219" />  
+        </navPoint>
+        <navPoint id="navPoint274" playOrder="230">
+          <navLabel>
+            <text>第二节：烟叶税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id224" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint275" playOrder="231">
+        <navLabel>
+          <text>第七章：关税法和船舶吨税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id228" />  
+        <navPoint id="navPoint276" playOrder="231">
+          <navLabel>
+            <text>第七章：关税法和船舶吨税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id228" />  
+        </navPoint>
+        <navPoint id="navPoint277" playOrder="232">
+          <navLabel>
+            <text>第一节：关税的征税对象与纳税义务人</text>
+          </navLabel>
+          <content src="sf.xhtml#id229" />  
+        </navPoint>
+        <navPoint id="navPoint278" playOrder="233">
+          <navLabel>
+            <text>第二节：关税进出口税则</text>
+          </navLabel>
+          <content src="sf.xhtml#id232" />  
+        </navPoint>
+        <navPoint id="navPoint279" playOrder="234">
+          <navLabel>
+            <text>第三节：关税完税价格与应纳税额的计算</text>
+          </navLabel>
+          <content src="sf.xhtml#id236" />  
+        </navPoint>
+        <navPoint id="navPoint280" playOrder="235">
+          <navLabel>
+            <text>第四节：关税减免规定</text>
+          </navLabel>
+          <content src="sf.xhtml#id241" />  
+        </navPoint>
+        <navPoint id="navPoint281" playOrder="236">
+          <navLabel>
+            <text>第五节：关税征收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id246" />  
+        </navPoint>
+        <navPoint id="navPoint282" playOrder="237">
+          <navLabel>
+            <text>第六节：船舶吨税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id252" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint283" playOrder="238">
+        <navLabel>
+          <text>第八章：资源税法和环境保护税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id257" />  
+        <navPoint id="navPoint284" playOrder="238">
+          <navLabel>
+            <text>第八章：资源税法和环境保护税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id257" />  
+        </navPoint>
+        <navPoint id="navPoint285" playOrder="239">
+          <navLabel>
+            <text>第一节资源税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id258" />  
+        </navPoint>
+        <navPoint id="navPoint286" playOrder="240">
+          <navLabel>
+            <text>第二节：环境保护税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id266" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint287" playOrder="241">
+        <navLabel>
+          <text>第九章：城镇土地使用税法和耕地占用税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id272" />  
+        <navPoint id="navPoint288" playOrder="241">
+          <navLabel>
+            <text>第九章：城镇土地使用税法和耕地占用税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id272" />  
+        </navPoint>
+        <navPoint id="navPoint289" playOrder="242">
+          <navLabel>
+            <text>第一节：城镇土地使用税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id273" />  
+        </navPoint>
+        <navPoint id="navPoint290" playOrder="243">
+          <navLabel>
+            <text>第二节：耕地占用税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id278" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint291" playOrder="244">
+        <navLabel>
+          <text>第十章：房产税法、契税法和土地增值税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id282" />  
+        <navPoint id="navPoint292" playOrder="244">
+          <navLabel>
+            <text>第十章：房产税法、契税法和土地增值税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id282" />  
+        </navPoint>
+        <navPoint id="navPoint293" playOrder="245">
+          <navLabel>
+            <text>第一节：房产税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id283" />  
+        </navPoint>
+        <navPoint id="navPoint294" playOrder="246">
+          <navLabel>
+            <text>第二节：契税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id288" />  
+        </navPoint>
+        <navPoint id="navPoint295" playOrder="247">
+          <navLabel>
+            <text>第三节：土地增值税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id293" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint296" playOrder="248">
+        <navLabel>
+          <text>第十一章：车辆购置税法、车船税法和印花税法</text>
+        </navLabel>
+        <content src="sf.xhtml#id302" />  
+        <navPoint id="navPoint297" playOrder="248">
+          <navLabel>
+            <text>第十一章：车辆购置税法、车船税法和印花税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id302" />  
+        </navPoint>
+        <navPoint id="navPoint298" playOrder="249">
+          <navLabel>
+            <text>第一节车辆购置税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id303" />  
+        </navPoint>
+        <navPoint id="navPoint299" playOrder="250">
+          <navLabel>
+            <text>第二节：车船税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id309" />  
+        </navPoint>
+        <navPoint id="navPoint300" playOrder="251">
+          <navLabel>
+            <text>第三节：印花税法</text>
+          </navLabel>
+          <content src="sf.xhtml#id315" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint301" playOrder="252">
+        <navLabel>
+          <text>第十二章：国际税收税务管理实务</text>
+        </navLabel>
+        <content src="sf.xhtml#id321" />  
+        <navPoint id="navPoint302" playOrder="252">
+          <navLabel>
+            <text>第十二章：国际税收税务管理实务</text>
+          </navLabel>
+          <content src="sf.xhtml#id321" />  
+        </navPoint>
+        <navPoint id="navPoint303" playOrder="253">
+          <navLabel>
+            <text>第一节：国际税收协定</text>
+          </navLabel>
+          <content src="sf.xhtml#id322" />  
+        </navPoint>
+        <navPoint id="navPoint304" playOrder="254">
+          <navLabel>
+            <text>第二节：非居民企业税收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id328" />  
+        </navPoint>
+        <navPoint id="navPoint305" playOrder="255">
+          <navLabel>
+            <text>第三节：境外所得税收管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id333" />  
+        </navPoint>
+        <navPoint id="navPoint306" playOrder="256">
+          <navLabel>
+            <text>第四节：国际避税与反避税</text>
+          </navLabel>
+          <content src="sf.xhtml#id346" />  
+        </navPoint>
+        <navPoint id="navPoint307" playOrder="257">
+          <navLabel>
+            <text>第五节：转让定价税务管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id349" />  
+        </navPoint>
+        <navPoint id="navPoint308" playOrder="258">
+          <navLabel>
+            <text>第六节：国际税收征管合作</text>
+          </navLabel>
+          <content src="sf.xhtml#id355" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint309" playOrder="259">
+        <navLabel>
+          <text>第十三章：税收征收管理法</text>
+        </navLabel>
+        <content src="sf.xhtml#id359" />  
+        <navPoint id="navPoint310" playOrder="259">
+          <navLabel>
+            <text>第十三章：税收征收管理法</text>
+          </navLabel>
+          <content src="sf.xhtml#id359" />  
+        </navPoint>
+        <navPoint id="navPoint311" playOrder="260">
+          <navLabel>
+            <text>第一节：概述</text>
+          </navLabel>
+          <content src="sf.xhtml#id360" />  
+        </navPoint>
+        <navPoint id="navPoint312" playOrder="261">
+          <navLabel>
+            <text>第二节：税务管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id364" />  
+        </navPoint>
+        <navPoint id="navPoint313" playOrder="262">
+          <navLabel>
+            <text>第三节：税款征收</text>
+          </navLabel>
+          <content src="sf.xhtml#id368" />  
+        </navPoint>
+        <navPoint id="navPoint314" playOrder="263">
+          <navLabel>
+            <text>第四节：税务检查</text>
+          </navLabel>
+          <content src="sf.xhtml#id372" />  
+        </navPoint>
+        <navPoint id="navPoint315" playOrder="264">
+          <navLabel>
+            <text>第五节：法律责任</text>
+          </navLabel>
+          <content src="sf.xhtml#id375" />  
+        </navPoint>
+        <navPoint id="navPoint316" playOrder="265">
+          <navLabel>
+            <text>第六节：纳税担保和抵押</text>
+          </navLabel>
+          <content src="sf.xhtml#id384" />  
+        </navPoint>
+        <navPoint id="navPoint317" playOrder="266">
+          <navLabel>
+            <text>第七节：纳税信用管理</text>
+          </navLabel>
+          <content src="sf.xhtml#id389" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint318" playOrder="267">
+        <navLabel>
+          <text>第十四章：税务行政法制</text>
+        </navLabel>
+        <content src="sf.xhtml#id390" />  
+        <navPoint id="navPoint319" playOrder="267">
+          <navLabel>
+            <text>第十四章：税务行政法制</text>
+          </navLabel>
+          <content src="sf.xhtml#id390" />  
+        </navPoint>
+        <navPoint id="navPoint320" playOrder="268">
+          <navLabel>
+            <text>第一节：税务行政处罚</text>
+          </navLabel>
+          <content src="sf.xhtml#id391" />  
+        </navPoint>
+        <navPoint id="navPoint321" playOrder="269">
+          <navLabel>
+            <text>第二节：税务行政复议</text>
+          </navLabel>
+          <content src="sf.xhtml#id400" />  
+        </navPoint>
+        <navPoint id="navPoint322" playOrder="270">
+          <navLabel>
+            <text>第三节：税务行政诉讼</text>
+          </navLabel>
+          <content src="sf.xhtml#id412" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint323" playOrder="271">
+      <navLabel>
+        <text>审计</text>
+      </navLabel>
+      <content src="sj.xhtml" />  
+      <navPoint id="navPoint324" playOrder="271">
+        <navLabel>
+          <text>审计</text>
+        </navLabel>
+        <content src="sj.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint325" playOrder="272">
+        <navLabel>
+          <text>第1章：审计概述（7）</text>
+        </navLabel>
+        <content src="sj.xhtml#id2" />  
+        <navPoint id="navPoint326" playOrder="272">
+          <navLabel>
+            <text>第1章：审计概述（7）</text>
+          </navLabel>
+          <content src="sj.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint327" playOrder="273">
+          <navLabel>
+            <text>第一节：审计的概念</text>
+          </navLabel>
+          <content src="sj.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint328" playOrder="274">
+          <navLabel>
+            <text>第二节：审计要素</text>
+          </navLabel>
+          <content src="sj.xhtml#id4" />  
+        </navPoint>
+        <navPoint id="navPoint329" playOrder="275">
+          <navLabel>
+            <text>第三节：审计目标</text>
+          </navLabel>
+          <content src="sj.xhtml#id5" />  
+        </navPoint>
+        <navPoint id="navPoint330" playOrder="276">
+          <navLabel>
+            <text>第四节：审计基本要求</text>
+          </navLabel>
+          <content src="sj.xhtml#id6" />  
+        </navPoint>
+        <navPoint id="navPoint331" playOrder="277">
+          <navLabel>
+            <text>第五节：审计风险</text>
+          </navLabel>
+          <content src="sj.xhtml#id11" />  
+        </navPoint>
+        <navPoint id="navPoint332" playOrder="278">
+          <navLabel>
+            <text>第六节：审计过程</text>
+          </navLabel>
+          <content src="sj.xhtml#id16" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint333" playOrder="279">
+        <navLabel>
+          <text>第2章：审计计划（5）</text>
+        </navLabel>
+        <content src="sj.xhtml#id21" />  
+        <navPoint id="navPoint334" playOrder="279">
+          <navLabel>
+            <text>第2章：审计计划（5）</text>
+          </navLabel>
+          <content src="sj.xhtml#id21" />  
+        </navPoint>
+        <navPoint id="navPoint335" playOrder="280">
+          <navLabel>
+            <text>第一节：初步业务活动</text>
+          </navLabel>
+          <content src="sj.xhtml#id22" />  
+        </navPoint>
+        <navPoint id="navPoint336" playOrder="281">
+          <navLabel>
+            <text>第二节：总体审计策略和具体审计计划</text>
+          </navLabel>
+          <content src="sj.xhtml#id27" />  
+        </navPoint>
+        <navPoint id="navPoint337" playOrder="282">
+          <navLabel>
+            <text>第三节：重要性</text>
+          </navLabel>
+          <content src="sj.xhtml#id30" />  
+        </navPoint>
+        <navPoint id="navPoint338" playOrder="283">
+          <navLabel>
+            <text>第四节：错报</text>
+          </navLabel>
+          <content src="sj.xhtml#id37" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint339" playOrder="284">
+        <navLabel>
+          <text>第3章：审计证据（5）</text>
+        </navLabel>
+        <content src="sj.xhtml#id42" />  
+        <navPoint id="navPoint340" playOrder="284">
+          <navLabel>
+            <text>第3章：审计证据（5）</text>
+          </navLabel>
+          <content src="sj.xhtml#id42" />  
+        </navPoint>
+        <navPoint id="navPoint341" playOrder="285">
+          <navLabel>
+            <text>第一节：审计证据的性质</text>
+          </navLabel>
+          <content src="sj.xhtml#id43" />  
+        </navPoint>
+        <navPoint id="navPoint342" playOrder="286">
+          <navLabel>
+            <text>第二节：审计程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id44" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint343" playOrder="287">
+        <navLabel>
+          <text>第4章：审计抽样方法（7）</text>
+        </navLabel>
+        <content src="sj.xhtml#id62" />  
+        <navPoint id="navPoint344" playOrder="287">
+          <navLabel>
+            <text>第4章：审计抽样方法（7）</text>
+          </navLabel>
+          <content src="sj.xhtml#id62" />  
+        </navPoint>
+        <navPoint id="navPoint345" playOrder="288">
+          <navLabel>
+            <text>第一节：审计抽样基本概念</text>
+          </navLabel>
+          <content src="sj.xhtml#id63" />  
+        </navPoint>
+        <navPoint id="navPoint346" playOrder="289">
+          <navLabel>
+            <text>第二节：审计抽样在控制测试中的应用</text>
+          </navLabel>
+          <content src="sj.xhtml#id67" />  
+        </navPoint>
+        <navPoint id="navPoint347" playOrder="290">
+          <navLabel>
+            <text>第三节 审计抽样在细节测试中的应用</text>
+          </navLabel>
+          <content src="sj.xhtml#id71" />  
+        </navPoint>
+        <navPoint id="navPoint348" playOrder="291">
+          <navLabel>
+            <text>第四节：三种细节测试的审计抽样</text>
+          </navLabel>
+          <content src="sj.xhtml#id75" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint349" playOrder="292">
+        <navLabel>
+          <text>第5章：信息技术对审计的影响</text>
+        </navLabel>
+        <content src="sj.xhtml#id79" />  
+        <navPoint id="navPoint350" playOrder="292">
+          <navLabel>
+            <text>第5章：信息技术对审计的影响</text>
+          </navLabel>
+          <content src="sj.xhtml#id79" />  
+        </navPoint>
+        <navPoint id="navPoint351" playOrder="293">
+          <navLabel>
+            <text>一、信息技术对内控的影响和风险</text>
+          </navLabel>
+          <content src="sj.xhtml#id80" />  
+        </navPoint>
+        <navPoint id="navPoint352" playOrder="294">
+          <navLabel>
+            <text>二、信息技术控制分类</text>
+          </navLabel>
+          <content src="sj.xhtml#id81" />  
+        </navPoint>
+        <navPoint id="navPoint353" playOrder="295">
+          <navLabel>
+            <text>三、信息技术对审计过程的影响</text>
+          </navLabel>
+          <content src="sj.xhtml#id82" />  
+        </navPoint>
+        <navPoint id="navPoint354" playOrder="296">
+          <navLabel>
+            <text>四、数据分析</text>
+          </navLabel>
+          <content src="sj.xhtml#id83" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint355" playOrder="297">
+        <navLabel>
+          <text>第6章：审计工作底稿（3）</text>
+        </navLabel>
+        <content src="sj.xhtml#id84" />  
+        <navPoint id="navPoint356" playOrder="297">
+          <navLabel>
+            <text>第6章：审计工作底稿（3）</text>
+          </navLabel>
+          <content src="sj.xhtml#id84" />  
+        </navPoint>
+        <navPoint id="navPoint357" playOrder="298">
+          <navLabel>
+            <text>第一节：基本点</text>
+          </navLabel>
+          <content src="sj.xhtml#id85" />  
+        </navPoint>
+        <navPoint id="navPoint358" playOrder="299">
+          <navLabel>
+            <text>一、审计工作底稿的目的</text>
+          </navLabel>
+          <content src="sj.xhtml#id86" />  
+        </navPoint>
+        <navPoint id="navPoint359" playOrder="300">
+          <navLabel>
+            <text>二、编制要求</text>
+          </navLabel>
+          <content src="sj.xhtml#id87" />  
+        </navPoint>
+        <navPoint id="navPoint360" playOrder="301">
+          <navLabel>
+            <text>三、底稿存在的形式</text>
+          </navLabel>
+          <content src="sj.xhtml#id88" />  
+        </navPoint>
+        <navPoint id="navPoint361" playOrder="302">
+          <navLabel>
+            <text>四、审计工作底稿内容</text>
+          </navLabel>
+          <content src="sj.xhtml#id89" />  
+        </navPoint>
+        <navPoint id="navPoint362" playOrder="303">
+          <navLabel>
+            <text>第二节：审计工作底稿要素</text>
+          </navLabel>
+          <content src="sj.xhtml#id90" />  
+        </navPoint>
+        <navPoint id="navPoint363" playOrder="304">
+          <navLabel>
+            <text>第三节：归档</text>
+          </navLabel>
+          <content src="sj.xhtml#id93" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint364" playOrder="305">
+        <navLabel>
+          <text>第7章：风险评估（6）</text>
+        </navLabel>
+        <content src="sj.xhtml#id97" />  
+        <navPoint id="navPoint365" playOrder="305">
+          <navLabel>
+            <text>第7章：风险评估（6）</text>
+          </navLabel>
+          <content src="sj.xhtml#id97" />  
+        </navPoint>
+        <navPoint id="navPoint366" playOrder="306">
+          <navLabel>
+            <text>第一节：风险评估的作用</text>
+          </navLabel>
+          <content src="sj.xhtml#id98" />  
+        </navPoint>
+        <navPoint id="navPoint367" playOrder="307">
+          <navLabel>
+            <text>第二节：风险评估程序和信息来源</text>
+          </navLabel>
+          <content src="sj.xhtml#id99" />  
+        </navPoint>
+        <navPoint id="navPoint368" playOrder="308">
+          <navLabel>
+            <text>第二节：了解被审计单位及其环境</text>
+          </navLabel>
+          <content src="sj.xhtml#id103" />  
+        </navPoint>
+        <navPoint id="navPoint369" playOrder="309">
+          <navLabel>
+            <text>第三节：了解被审单位内控</text>
+          </navLabel>
+          <content src="sj.xhtml#id110" />  
+        </navPoint>
+        <navPoint id="navPoint370" playOrder="310">
+          <navLabel>
+            <text>第四节：评估重大错报风险</text>
+          </navLabel>
+          <content src="sj.xhtml#id120" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint371" playOrder="311">
+        <navLabel>
+          <text>第8章：风险应对（5）</text>
+        </navLabel>
+        <content src="sj.xhtml#id125" />  
+        <navPoint id="navPoint372" playOrder="311">
+          <navLabel>
+            <text>第8章：风险应对（5）</text>
+          </navLabel>
+          <content src="sj.xhtml#id125" />  
+        </navPoint>
+        <navPoint id="navPoint373" playOrder="312">
+          <navLabel>
+            <text>第一节：总体应对措施</text>
+          </navLabel>
+          <content src="sj.xhtml#id126" />  
+        </navPoint>
+        <navPoint id="navPoint374" playOrder="313">
+          <navLabel>
+            <text>第二节：针对认定层的进一步审计程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id129" />  
+        </navPoint>
+        <navPoint id="navPoint375" playOrder="314">
+          <navLabel>
+            <text>第三节：控制测试</text>
+          </navLabel>
+          <content src="sj.xhtml#id133" />  
+        </navPoint>
+        <navPoint id="navPoint376" playOrder="315">
+          <navLabel>
+            <text>第四节：实质性程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id139" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint377" playOrder="316">
+        <navLabel>
+          <text>第9章：销售与收循环的审计（10）</text>
+        </navLabel>
+        <content src="sj.xhtml#id145" />  
+        <navPoint id="navPoint378" playOrder="316">
+          <navLabel>
+            <text>第9章：销售与收循环的审计（10）</text>
+          </navLabel>
+          <content src="sj.xhtml#id145" />  
+        </navPoint>
+        <navPoint id="navPoint379" playOrder="317">
+          <navLabel>
+            <text>第一节：销售收款循环控制活动</text>
+          </navLabel>
+          <content src="sj.xhtml#id146" />  
+        </navPoint>
+        <navPoint id="navPoint380" playOrder="318">
+          <navLabel>
+            <text>第二节：销售收款循环相关内控</text>
+          </navLabel>
+          <content src="sj.xhtml#id147" />  
+        </navPoint>
+        <navPoint id="navPoint381" playOrder="319">
+          <navLabel>
+            <text>第三节：销售收款循环重大错报风险评估</text>
+          </navLabel>
+          <content src="sj.xhtml#id148" />  
+        </navPoint>
+        <navPoint id="navPoint382" playOrder="320">
+          <navLabel>
+            <text>第四节：销售收款循环内控测试</text>
+          </navLabel>
+          <content src="sj.xhtml#id149" />  
+        </navPoint>
+        <navPoint id="navPoint383" playOrder="321">
+          <navLabel>
+            <text>第五节：销售收款循环实质性程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id150" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint384" playOrder="322">
+        <navLabel>
+          <text>第10章：采购与付款循环的审计（4）</text>
+        </navLabel>
+        <content src="sj.xhtml#id153" />  
+        <navPoint id="navPoint385" playOrder="322">
+          <navLabel>
+            <text>第10章：采购与付款循环的审计（4）</text>
+          </navLabel>
+          <content src="sj.xhtml#id153" />  
+        </navPoint>
+        <navPoint id="navPoint386" playOrder="323">
+          <navLabel>
+            <text>第一节：采购付款循环控制活动</text>
+          </navLabel>
+          <content src="sj.xhtml#id154" />  
+        </navPoint>
+        <navPoint id="navPoint387" playOrder="324">
+          <navLabel>
+            <text>第二节：采购付款循环相关内控</text>
+          </navLabel>
+          <content src="sj.xhtml#id155" />  
+        </navPoint>
+        <navPoint id="navPoint388" playOrder="325">
+          <navLabel>
+            <text>第三节：采购付款循环重大错报风险评估</text>
+          </navLabel>
+          <content src="sj.xhtml#id156" />  
+        </navPoint>
+        <navPoint id="navPoint389" playOrder="326">
+          <navLabel>
+            <text>第四节：采购付款循环内控测试</text>
+          </navLabel>
+          <content src="sj.xhtml#id157" />  
+        </navPoint>
+        <navPoint id="navPoint390" playOrder="327">
+          <navLabel>
+            <text>第五节：采购付款循环实质性程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id158" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint391" playOrder="328">
+        <navLabel>
+          <text>第11章：生产与存货循环的审计（8）</text>
+        </navLabel>
+        <content src="sj.xhtml#id161" />  
+        <navPoint id="navPoint392" playOrder="328">
+          <navLabel>
+            <text>第11章：生产与存货循环的审计（8）</text>
+          </navLabel>
+          <content src="sj.xhtml#id161" />  
+        </navPoint>
+        <navPoint id="navPoint393" playOrder="329">
+          <navLabel>
+            <text>第一节：生产存货循环控制活动</text>
+          </navLabel>
+          <content src="sj.xhtml#id162" />  
+        </navPoint>
+        <navPoint id="navPoint394" playOrder="330">
+          <navLabel>
+            <text>第二节：存货实质性程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id163" />  
+        </navPoint>
+        <navPoint id="navPoint395" playOrder="331">
+          <navLabel>
+            <text>第三节：存货计价测试</text>
+          </navLabel>
+          <content src="sj.xhtml#id171" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint396" playOrder="332">
+        <navLabel>
+          <text>第12章：货币资产的审计（3）</text>
+        </navLabel>
+        <content src="sj.xhtml#id174" />  
+        <navPoint id="navPoint397" playOrder="332">
+          <navLabel>
+            <text>第12章：货币资产的审计（3）</text>
+          </navLabel>
+          <content src="sj.xhtml#id174" />  
+        </navPoint>
+        <navPoint id="navPoint398" playOrder="333">
+          <navLabel>
+            <text>第一节：货币资金循环控制活动</text>
+          </navLabel>
+          <content src="sj.xhtml#id175" />  
+        </navPoint>
+        <navPoint id="navPoint399" playOrder="334">
+          <navLabel>
+            <text>第二节：货币资金相关的重大错报风险</text>
+          </navLabel>
+          <content src="sj.xhtml#id176" />  
+        </navPoint>
+        <navPoint id="navPoint400" playOrder="335">
+          <navLabel>
+            <text>第三节：库存现金审计的实质性程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id177" />  
+        </navPoint>
+        <navPoint id="navPoint401" playOrder="336">
+          <navLabel>
+            <text>第四节：银行存款实质性程序</text>
+          </navLabel>
+          <content src="sj.xhtml#id178" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint402" playOrder="337">
+        <navLabel>
+          <text>第13章：对舞弊和法律法规的考虑（5）</text>
+        </navLabel>
+        <content src="sj.xhtml#id179" />  
+        <navPoint id="navPoint403" playOrder="337">
+          <navLabel>
+            <text>第13章：对舞弊和法律法规的考虑（5）</text>
+          </navLabel>
+          <content src="sj.xhtml#id179" />  
+        </navPoint>
+        <navPoint id="navPoint404" playOrder="338">
+          <navLabel>
+            <text>第一节：对舞弊的考虑</text>
+          </navLabel>
+          <content src="sj.xhtml#id180" />  
+        </navPoint>
+        <navPoint id="navPoint405" playOrder="339">
+          <navLabel>
+            <text>第二节：对法律法规的考虑</text>
+          </navLabel>
+          <content src="sj.xhtml#id186" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint406" playOrder="340">
+        <navLabel>
+          <text>第14章：审计沟通（3）</text>
+        </navLabel>
+        <content src="sj.xhtml#id187" />  
+        <navPoint id="navPoint407" playOrder="340">
+          <navLabel>
+            <text>第14章：审计沟通（3）</text>
+          </navLabel>
+          <content src="sj.xhtml#id187" />  
+        </navPoint>
+        <navPoint id="navPoint408" playOrder="341">
+          <navLabel>
+            <text>第一节：与治理层沟通</text>
+          </navLabel>
+          <content src="sj.xhtml#id188" />  
+        </navPoint>
+        <navPoint id="navPoint409" playOrder="342">
+          <navLabel>
+            <text>第二节：前后任注册会计师沟通</text>
+          </navLabel>
+          <content src="sj.xhtml#id191" />  
+        </navPoint>
+        <navPoint id="navPoint410" playOrder="343">
+          <navLabel>
+            <text>沟通阶段（3阶段）</text>
+          </navLabel>
+          <content src="sj.xhtml#id194" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint411" playOrder="344">
+        <navLabel>
+          <text>第15章：注册会计师利用他人的工作（3）</text>
+        </navLabel>
+        <content src="sj.xhtml#id195" />  
+        <navPoint id="navPoint412" playOrder="344">
+          <navLabel>
+            <text>第15章：注册会计师利用他人的工作（3）</text>
+          </navLabel>
+          <content src="sj.xhtml#id195" />  
+        </navPoint>
+        <navPoint id="navPoint413" playOrder="345">
+          <navLabel>
+            <text>第一节：利用内审工作</text>
+          </navLabel>
+          <content src="sj.xhtml#id196" />  
+        </navPoint>
+        <navPoint id="navPoint414" playOrder="346">
+          <navLabel>
+            <text>第二节：利用内审提供直接协助</text>
+          </navLabel>
+          <content src="sj.xhtml#id200" />  
+        </navPoint>
+        <navPoint id="navPoint415" playOrder="347">
+          <navLabel>
+            <text>第三节：利用专家工作</text>
+          </navLabel>
+          <content src="sj.xhtml#id204" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint416" playOrder="348">
+        <navLabel>
+          <text>第16章：对集团财务报表的特殊考虑（5）</text>
+        </navLabel>
+        <content src="sj.xhtml#id208" />  
+        <navPoint id="navPoint417" playOrder="348">
+          <navLabel>
+            <text>第16章：对集团财务报表的特殊考虑（5）</text>
+          </navLabel>
+          <content src="sj.xhtml#id208" />  
+        </navPoint>
+        <navPoint id="navPoint418" playOrder="349">
+          <navLabel>
+            <text>第一节、集团财报审计的考虑</text>
+          </navLabel>
+          <content src="sj.xhtml#id209" />  
+        </navPoint>
+        <navPoint id="navPoint419" playOrder="350">
+          <navLabel>
+            <text>第二节、财务重大性及特别风险</text>
+          </navLabel>
+          <content src="sj.xhtml#id210" />  
+        </navPoint>
+        <navPoint id="navPoint420" playOrder="351">
+          <navLabel>
+            <text>第三节、集团层面分析</text>
+          </navLabel>
+          <content src="sj.xhtml#id211" />  
+        </navPoint>
+        <navPoint id="navPoint421" playOrder="352">
+          <navLabel>
+            <text>第四节：全面或局部审计</text>
+          </navLabel>
+          <content src="sj.xhtml#id214" />  
+        </navPoint>
+        <navPoint id="navPoint422" playOrder="353">
+          <navLabel>
+            <text>第五节：了解组成部分注册会计师</text>
+          </navLabel>
+          <content src="sj.xhtml#id215" />  
+        </navPoint>
+        <navPoint id="navPoint423" playOrder="354">
+          <navLabel>
+            <text>第六节：集团项目组审计的责任与要求</text>
+          </navLabel>
+          <content src="sj.xhtml#id216" />  
+        </navPoint>
+        <navPoint id="navPoint424" playOrder="355">
+          <navLabel>
+            <text>第七节：风险评估（必做）</text>
+          </navLabel>
+          <content src="sj.xhtml#id217" />  
+        </navPoint>
+        <navPoint id="navPoint425" playOrder="356">
+          <navLabel>
+            <text>第八节：评价特别风险</text>
+          </navLabel>
+          <content src="sj.xhtml#id218" />  
+        </navPoint>
+        <navPoint id="navPoint426" playOrder="357">
+          <navLabel>
+            <text>第九节：参与组成部分工作的方式</text>
+          </navLabel>
+          <content src="sj.xhtml#id219" />  
+        </navPoint>
+        <navPoint id="navPoint427" playOrder="358">
+          <navLabel>
+            <text>第十节：与组成部分注册会计师沟通</text>
+          </navLabel>
+          <content src="sj.xhtml#id220" />  
+        </navPoint>
+        <navPoint id="navPoint428" playOrder="359">
+          <navLabel>
+            <text>补充</text>
+          </navLabel>
+          <content src="sj.xhtml#id221" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint429" playOrder="360">
+        <navLabel>
+          <text>第17章：其他特殊项目的审计（9）</text>
+        </navLabel>
+        <content src="sj.xhtml#id222" />  
+        <navPoint id="navPoint430" playOrder="360">
+          <navLabel>
+            <text>第17章：其他特殊项目的审计（9）</text>
+          </navLabel>
+          <content src="sj.xhtml#id222" />  
+        </navPoint>
+        <navPoint id="navPoint431" playOrder="361">
+          <navLabel>
+            <text>第一节：会计估计审计</text>
+          </navLabel>
+          <content src="sj.xhtml#id223" />  
+        </navPoint>
+        <navPoint id="navPoint432" playOrder="362">
+          <navLabel>
+            <text>第二节：关联方审计</text>
+          </navLabel>
+          <content src="sj.xhtml#id224" />  
+        </navPoint>
+        <navPoint id="navPoint433" playOrder="363">
+          <navLabel>
+            <text>第三节：期初余额审计</text>
+          </navLabel>
+          <content src="sj.xhtml#id225" />  
+        </navPoint>
+        <navPoint id="navPoint434" playOrder="364">
+          <navLabel>
+            <text>第四节：持续经营能力假设</text>
+          </navLabel>
+          <content src="sj.xhtml#id226" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint435" playOrder="365">
+        <navLabel>
+          <text>第18章：完成审计工作（4）</text>
+        </navLabel>
+        <content src="sj.xhtml#id227" />  
+        <navPoint id="navPoint436" playOrder="365">
+          <navLabel>
+            <text>第18章：完成审计工作（4）</text>
+          </navLabel>
+          <content src="sj.xhtml#id227" />  
+        </navPoint>
+        <navPoint id="navPoint437" playOrder="366">
+          <navLabel>
+            <text>第一节：完成审计工作概述</text>
+          </navLabel>
+          <content src="sj.xhtml#id228" />  
+        </navPoint>
+        <navPoint id="navPoint438" playOrder="367">
+          <navLabel>
+            <text>第二节：期后事项</text>
+          </navLabel>
+          <content src="sj.xhtml#id232" />  
+        </navPoint>
+        <navPoint id="navPoint439" playOrder="368">
+          <navLabel>
+            <text>第三节：管理层声明</text>
+          </navLabel>
+          <content src="sj.xhtml#id236" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint440" playOrder="369">
+        <navLabel>
+          <text>第19章：审计报告（8）</text>
+        </navLabel>
+        <content src="sj.xhtml#id242" />  
+        <navPoint id="navPoint441" playOrder="369">
+          <navLabel>
+            <text>第19章：审计报告（8）</text>
+          </navLabel>
+          <content src="sj.xhtml#id242" />  
+        </navPoint>
+        <navPoint id="navPoint442" playOrder="370">
+          <navLabel>
+            <text>第一节：审计报告概述</text>
+          </navLabel>
+          <content src="sj.xhtml#id243" />  
+        </navPoint>
+        <navPoint id="navPoint443" playOrder="371">
+          <navLabel>
+            <text>第二节：关键审计事项</text>
+          </navLabel>
+          <content src="sj.xhtml#id247" />  
+        </navPoint>
+        <navPoint id="navPoint444" playOrder="372">
+          <navLabel>
+            <text>第三节：非无保留意见</text>
+          </navLabel>
+          <content src="sj.xhtml#id255" />  
+        </navPoint>
+        <navPoint id="navPoint445" playOrder="373">
+          <navLabel>
+            <text>第四节：强调事项段和其他事项段</text>
+          </navLabel>
+          <content src="sj.xhtml#id258" />  
+        </navPoint>
+        <navPoint id="navPoint446" playOrder="374">
+          <navLabel>
+            <text>第五节：比较信息</text>
+          </navLabel>
+          <content src="sj.xhtml#id261" />  
+        </navPoint>
+        <navPoint id="navPoint447" playOrder="375">
+          <navLabel>
+            <text>第六节：其他信息</text>
+          </navLabel>
+          <content src="sj.xhtml#id264" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint448" playOrder="376">
+        <navLabel>
+          <text>第20章：企业内部控制审计（4）</text>
+        </navLabel>
+        <content src="sj.xhtml#id268" />  
+        <navPoint id="navPoint449" playOrder="376">
+          <navLabel>
+            <text>第20章：企业内部控制审计（4）</text>
+          </navLabel>
+          <content src="sj.xhtml#id268" />  
+        </navPoint>
+        <navPoint id="navPoint450" playOrder="377">
+          <navLabel>
+            <text>第一节：内控审计含义</text>
+          </navLabel>
+          <content src="sj.xhtml#id269" />  
+        </navPoint>
+        <navPoint id="navPoint451" playOrder="378">
+          <navLabel>
+            <text>第二节：计划内控审计工作</text>
+          </navLabel>
+          <content src="sj.xhtml#id270" />  
+        </navPoint>
+        <navPoint id="navPoint452" playOrder="379">
+          <navLabel>
+            <text>第三节：审计实施</text>
+          </navLabel>
+          <content src="sj.xhtml#id274" />  
+        </navPoint>
+        <navPoint id="navPoint453" playOrder="380">
+          <navLabel>
+            <text>第四节：测试控制有效性</text>
+          </navLabel>
+          <content src="sj.xhtml#id275" />  
+        </navPoint>
+        <navPoint id="navPoint454" playOrder="381">
+          <navLabel>
+            <text>第五节：内控缺陷评价</text>
+          </navLabel>
+          <content src="sj.xhtml#id276" />  
+        </navPoint>
+        <navPoint id="navPoint455" playOrder="382">
+          <navLabel>
+            <text>第六节：内控审计报告</text>
+          </navLabel>
+          <content src="sj.xhtml#id277" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint456" playOrder="383">
+        <navLabel>
+          <text>第21章：会计师事务所业务质量控制（6）</text>
+        </navLabel>
+        <content src="sj.xhtml#id278" />  
+      </navPoint>
+      <navPoint id="navPoint457" playOrder="384">
+        <navLabel>
+          <text>第22章：职业道德基本原则和概念框架（6）</text>
+        </navLabel>
+        <content src="sj.xhtml#id279" />  
+        <navPoint id="navPoint458" playOrder="384">
+          <navLabel>
+            <text>第22章：职业道德基本原则和概念框架（6）</text>
+          </navLabel>
+          <content src="sj.xhtml#id279" />  
+        </navPoint>
+        <navPoint id="navPoint459" playOrder="385">
+          <navLabel>
+            <text>第一节：职业道德基本原则</text>
+          </navLabel>
+          <content src="sj.xhtml#id280" />  
+        </navPoint>
+        <navPoint id="navPoint460" playOrder="386">
+          <navLabel>
+            <text>第二节：职业道德概念框架</text>
+          </navLabel>
+          <content src="sj.xhtml#id281" />  
+        </navPoint>
+        <navPoint id="navPoint461" playOrder="387">
+          <navLabel>
+            <text>第三节：具体运用</text>
+          </navLabel>
+          <content src="sj.xhtml#id282" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint462" playOrder="388">
+        <navLabel>
+          <text>第23章：审计业务对独立性的要求（6）</text>
+        </navLabel>
+        <content src="sj.xhtml#id283" />  
+        <navPoint id="navPoint463" playOrder="388">
+          <navLabel>
+            <text>第23章：审计业务对独立性的要求（6）</text>
+          </navLabel>
+          <content src="sj.xhtml#id283" />  
+        </navPoint>
+        <navPoint id="navPoint464" playOrder="389">
+          <navLabel>
+            <text>第一节：独立性的基础概念</text>
+          </navLabel>
+          <content src="sj.xhtml#id284" />  
+        </navPoint>
+        <navPoint id="navPoint465" playOrder="390">
+          <navLabel>
+            <text>第二节：对独立性的影响</text>
+          </navLabel>
+          <content src="sj.xhtml#id292" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint466" playOrder="391">
+      <navLabel>
+        <text>会计专题一：第二十章　所得税</text>
+      </navLabel>
+      <content src="kjzt.xhtml" />  
+      <navPoint id="navPoint467" playOrder="391">
+        <navLabel>
+          <text>会计专题一：第二十章　所得税</text>
+        </navLabel>
+        <content src="kjzt.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint468" playOrder="392">
+        <navLabel>
+          <text>第一节　所得税核算的基本原理</text>
+        </navLabel>
+        <content src="kjzt.xhtml#id2" />  
+        <navPoint id="navPoint469" playOrder="392">
+          <navLabel>
+            <text>第一节　所得税核算的基本原理</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint470" playOrder="393">
+          <navLabel>
+            <text>一、资产负债表债务法</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint471" playOrder="394">
+          <navLabel>
+            <text>二、所得税会计的一般程序</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id4" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint472" playOrder="395">
+        <navLabel>
+          <text>第二节　资产、负债的计税基础</text>
+        </navLabel>
+        <content src="kjzt.xhtml#id10" />  
+        <navPoint id="navPoint473" playOrder="395">
+          <navLabel>
+            <text>第二节　资产、负债的计税基础</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id10" />  
+        </navPoint>
+        <navPoint id="navPoint474" playOrder="396">
+          <navLabel>
+            <text>一、资产的计税基础（目前时点上，税法认为该资产值多少钱）</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id11" />  
+        </navPoint>
+        <navPoint id="navPoint475" playOrder="397">
+          <navLabel>
+            <text>二、负债的计税基础（负债的计税基础=账面价值-未来抵扣金额）</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id24" />  
+        </navPoint>
+        <navPoint id="navPoint476" playOrder="398">
+          <navLabel>
+            <text>三、特殊交易或事项中产生资产、负债计税基础的确定</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id31" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint477" playOrder="399">
+        <navLabel>
+          <text>第三节　暂时性差异</text>
+        </navLabel>
+        <content src="kjzt.xhtml#id34" />  
+        <navPoint id="navPoint478" playOrder="399">
+          <navLabel>
+            <text>第三节　暂时性差异</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id34" />  
+        </navPoint>
+        <navPoint id="navPoint479" playOrder="400">
+          <navLabel>
+            <text>一、 暂时性差异的含义和种类</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id35" />  
+        </navPoint>
+        <navPoint id="navPoint480" playOrder="401">
+          <navLabel>
+            <text>二、特殊项目产生的暂时性差异</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id38" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint481" playOrder="402">
+        <navLabel>
+          <text>第四节　递延所得税资产及负债的确认和计量</text>
+        </navLabel>
+        <content src="kjzt.xhtml#id41" />  
+        <navPoint id="navPoint482" playOrder="402">
+          <navLabel>
+            <text>第四节　递延所得税资产及负债的确认和计量</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id41" />  
+        </navPoint>
+        <navPoint id="navPoint483" playOrder="403">
+          <navLabel>
+            <text>一、递延所得税负债的确认和计量</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id42" />  
+        </navPoint>
+        <navPoint id="navPoint484" playOrder="404">
+          <navLabel>
+            <text>二、递延所得税资产的确认和计量</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id47" />  
+        </navPoint>
+        <navPoint id="navPoint485" playOrder="405">
+          <navLabel>
+            <text>三、特殊交易或事项中涉及递延所得税的确认和计量</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id53" />  
+        </navPoint>
+        <navPoint id="navPoint486" playOrder="406">
+          <navLabel>
+            <text>四、适用税率变化对已确认递延所得税资产和递延所得税负债的影响</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id57" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint487" playOrder="407">
+        <navLabel>
+          <text>第五节　所得税费用的确认和计量</text>
+        </navLabel>
+        <content src="kjzt.xhtml#id58" />  
+        <navPoint id="navPoint488" playOrder="407">
+          <navLabel>
+            <text>第五节　所得税费用的确认和计量</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id58" />  
+        </navPoint>
+        <navPoint id="navPoint489" playOrder="408">
+          <navLabel>
+            <text>一、当期所得税</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id59" />  
+        </navPoint>
+        <navPoint id="navPoint490" playOrder="409">
+          <navLabel>
+            <text>二、递延所得税</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id60" />  
+        </navPoint>
+        <navPoint id="navPoint491" playOrder="410">
+          <navLabel>
+            <text>三、所得税费用</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id63" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint492" playOrder="411">
+        <navLabel>
+          <text>第六节　所得税的列报</text>
+        </navLabel>
+        <content src="kjzt.xhtml#id64" />  
+        <navPoint id="navPoint493" playOrder="411">
+          <navLabel>
+            <text>第六节　所得税的列报</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id64" />  
+        </navPoint>
+        <navPoint id="navPoint494" playOrder="412">
+          <navLabel>
+            <text>一、列报的基本原则</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id65" />  
+        </navPoint>
+        <navPoint id="navPoint495" playOrder="413">
+          <navLabel>
+            <text>二、所得税费用（收益）与会计利润关系的说明</text>
+          </navLabel>
+          <content src="kjzt.xhtml#id66" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
